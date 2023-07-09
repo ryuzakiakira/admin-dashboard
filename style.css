@@ -22,7 +22,7 @@ li {
 .header {
     grid-area: 1 / 2 / 2 / 3;
     background-color: #ffffff;
-    height: 165px;
+    height: 200px;
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: repeat(2, 1fr);
